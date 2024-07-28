@@ -1,0 +1,44 @@
+#g1{
+    background-color: #DCDCDC;
+    width: 55%;
+    height: 80px;
+    text-align: center;
+    float: left;
+}
+
+#g2, #g3, #g4{
+    background-color: #DCDCDC;
+    width: 15%;
+    height: 80px;
+    float: left;
+}
+
+#lewy{
+    background-color: #808080;
+    width: 30%;
+    height: 450px;
+    float: left;
+}
+
+#prawy{
+    background-color: #808080;
+    width: 70%;
+    height: 450px;
+    float: right;
+}
+
+#stopkap{
+    background-color: #DCDCDC;
+    text-align: center;
+}
+
+h5{
+    color: #808080;
+    border: 1px solid;
+    border-color: #808080;
+    margin: 7px;
+    padding: 10px;
+}
+input{
+    color: grey;
+}
